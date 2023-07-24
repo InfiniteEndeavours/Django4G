@@ -1,4 +1,19 @@
+# Environment
 .env
 .python-version
+venv/
+
+# Database
 db.sqlite3
+
+# Python
+*.pyc
+*~
 __pycache__/
+
+# Static Files
+/static/
+
+# Misc
+.vscode/
+.DS_Store
